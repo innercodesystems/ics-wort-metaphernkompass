@@ -2,7 +2,7 @@
   "name": "ics-wort-metaphernkompass",
   "compatibility_date": "2026-11-20",
   "assets": {
-    "directory": "./",
+    "directory": "./public",
     "binding": "ASSETS"
   }
 }
